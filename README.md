@@ -4,6 +4,7 @@
 
 > This will be a fully-coded version of the website 'virtualahan.com'. Currently, the website is built using Wordpress. 
 > The goal is to create a different version of the website without using a CMS like Wordpress to check and compare if it can be faster and accessible than the current wordpress website.
+> The vision is to achieve a fully accessible website.
 > Hopefully, by making this public, web developers with the same advocacy as Virtualahan, can also help or guide us to make this project successful.
 
 ## Getting started
