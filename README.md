@@ -9,12 +9,9 @@
 
 ## Getting started
 
-Built with:
+Built with: ???
 
-- [Semantic HTML5](https://www.w3schools.com/html/html5_semantic_elements.asp)
-- [HTML](https://www.w3schools.com/html/default.asp)
-- [CSS](https://www.w3schools.com/css/default.asp)
-- [JAVASCRIPT](https://www.w3schools.com/js/default.asp)
+- We do not know the best approach to this yet. Feel free to join us in the [discussions](https://github.com/kyooreas/virtualahan-com/discussions) section to further discuss what to do next.
 
 ## :books: Documentation
 
