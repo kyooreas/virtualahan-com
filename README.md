@@ -1,6 +1,7 @@
 <h1 align="center">
   virtualahan.com
 </h1>
+<img src="https://img.shields.io/badge/Current%20Phase-Phase%201-orange">
 
 - The goal is to make www.virtualahan.com website fast and fully accessible.
 - Hopefully, by making this public, anyone with the same advocacy as Virtualahan, can also help or guide us to make this project successful.
@@ -20,8 +21,6 @@
   - Explore other development approach other than Wordpress or CMS and check if it can make it even better.
 
 ## Getting started
-
-Built with: ???
 
 - We do not know the best approach to this yet. Feel free to join us in the [discussions](https://github.com/kyooreas/virtualahan-com/discussions) section to further discuss what to do next.
 
