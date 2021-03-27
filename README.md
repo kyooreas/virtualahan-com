@@ -1,7 +1,8 @@
 <h1 align="center">
   virtualahan.com
+  <img src="https://img.shields.io/badge/Current%20Phase-Phase%201-orange">
 </h1>
-<img src="https://img.shields.io/badge/Current%20Phase-Phase%201-orange">
+
 
 - The goal is to make www.virtualahan.com website fast and fully accessible.
 - Hopefully, by making this public, anyone with the same advocacy as Virtualahan, can also help or guide us to make this project successful.
