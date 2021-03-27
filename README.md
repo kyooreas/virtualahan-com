@@ -1,6 +1,6 @@
 <h1 align="center">
   virtualahan.com
-  <img src="https://img.shields.io/badge/Current%20Phase-Phase%201-orange">
+  <br><img src="https://img.shields.io/badge/Current%20Phase-Phase%201-orange">
 </h1>
 
 
