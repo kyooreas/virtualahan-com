@@ -9,19 +9,18 @@
 
 ## Phases
 
-- Phase 1 (ACTIVE)
+- <b>Phase 1 (ACTIVE)</b>
   - Improve accessibility.
   - Improve the current website www.virtualahan.com which is built with Wordpress.
   
-
-- Phase 2
+- <b>Phase 2</b>
   - Improve performance.
   - Transfer hosting to Azure App Service.
 
-- Phase 3
+- <b>Phase 3</b>
   - Improve and maintain performance and accessibility.
 
-- Phase 4
+- <b>Phase 4</b>
   - Explore other development approach other than Wordpress or CMS and check if it can make it even better.
 
 ## Getting started
