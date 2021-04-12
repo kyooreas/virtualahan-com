@@ -27,6 +27,8 @@
 
 - Feel free to join us in the [discussions](https://github.com/kyooreas/virtualahan-com/discussions) section to further discuss what to do next.
 
+## :toolbox: [Tools](Tools.md)
+
 ## :books: Documentation
 
 - See our documentation site
