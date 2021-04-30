@@ -7,21 +7,19 @@
 - The goal is to make www.virtualahan.com website fast and fully accessible.
 - Hopefully, by making this public, anyone with the same advocacy as Virtualahan, can also help or guide us to make this project successful.
 
-## Phases
-
+## Phases (simultaneous development)
+VERSION 2 (Linux Ubuntu, Nginx, MariaDB, PHP, Wordpress):
 - <b>Phase 1 (ACTIVE)</b>
   - Improve performance.
   - Transfer hosting to Azure App Service.
   
 - <b>Phase 2</b>
   - Improve accessibility.
-  - Improve the current website www.virtualahan.com which is built with Wordpress.
 
-- <b>Phase 3</b>
-  - Improve and maintain performance and accessibility.
+VERSION 3 (HTML5, CSS3, Tailwind, jQuery?/React?):
+- <b>Phase 1</b>
 
-- <b>Phase 4</b>
-  - Explore other development approach other than Wordpress or CMS and check if it can make it even better.
+- <b>Phase 2</b>
 
 ## Getting started
 
