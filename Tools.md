@@ -1,3 +1,6 @@
+* [W3C > WAI](https://www.w3.org/WAI/standards-guidelines/wcag/)
+* [ADA Accessibility Guidelines (ADAAG)](https://www.access-board.gov/adaag-1991-2002.html)
+* [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/design-tokens/color/overview/)
 * [WAVE](https://wave.webaim.org/)
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 * [axe devTools](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
@@ -5,5 +8,5 @@
 * [Tenon](https://tenon.io/)
 * [Contrast Checker](https://contrastchecker.com/)
 * [Contrast Grid](https://contrast-grid.eightshapes.com/)
-* [ADA Accessibility Guidelines (ADAAG)](https://www.access-board.gov/adaag-1991-2002.html)
-* [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/design-tokens/color/overview/)
+
+
